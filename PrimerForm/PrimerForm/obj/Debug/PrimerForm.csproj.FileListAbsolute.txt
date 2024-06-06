@@ -1,0 +1,10 @@
+C:\laragon\www\Windows-Forms\PrimerForm\PrimerForm\bin\Debug\PrimerForm.exe.config
+C:\laragon\www\Windows-Forms\PrimerForm\PrimerForm\bin\Debug\PrimerForm.exe
+C:\laragon\www\Windows-Forms\PrimerForm\PrimerForm\bin\Debug\PrimerForm.pdb
+C:\laragon\www\Windows-Forms\PrimerForm\PrimerForm\obj\Debug\PrimerForm.csproj.AssemblyReference.cache
+C:\laragon\www\Windows-Forms\PrimerForm\PrimerForm\obj\Debug\PrimerForm.Form1.resources
+C:\laragon\www\Windows-Forms\PrimerForm\PrimerForm\obj\Debug\PrimerForm.Properties.Resources.resources
+C:\laragon\www\Windows-Forms\PrimerForm\PrimerForm\obj\Debug\PrimerForm.csproj.GenerateResource.cache
+C:\laragon\www\Windows-Forms\PrimerForm\PrimerForm\obj\Debug\PrimerForm.csproj.CoreCompileInputs.cache
+C:\laragon\www\Windows-Forms\PrimerForm\PrimerForm\obj\Debug\PrimerForm.exe
+C:\laragon\www\Windows-Forms\PrimerForm\PrimerForm\obj\Debug\PrimerForm.pdb
