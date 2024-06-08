@@ -1,0 +1,10 @@
+C:\laragon\www\Windows-Forms\Rectangulo\Rectangulo\bin\Debug\Rectangulo.exe.config
+C:\laragon\www\Windows-Forms\Rectangulo\Rectangulo\bin\Debug\Rectangulo.exe
+C:\laragon\www\Windows-Forms\Rectangulo\Rectangulo\bin\Debug\Rectangulo.pdb
+C:\laragon\www\Windows-Forms\Rectangulo\Rectangulo\obj\Debug\Rectangulo.csproj.AssemblyReference.cache
+C:\laragon\www\Windows-Forms\Rectangulo\Rectangulo\obj\Debug\Rectangulo.Form1.resources
+C:\laragon\www\Windows-Forms\Rectangulo\Rectangulo\obj\Debug\Rectangulo.Properties.Resources.resources
+C:\laragon\www\Windows-Forms\Rectangulo\Rectangulo\obj\Debug\Rectangulo.csproj.GenerateResource.cache
+C:\laragon\www\Windows-Forms\Rectangulo\Rectangulo\obj\Debug\Rectangulo.csproj.CoreCompileInputs.cache
+C:\laragon\www\Windows-Forms\Rectangulo\Rectangulo\obj\Debug\Rectangulo.exe
+C:\laragon\www\Windows-Forms\Rectangulo\Rectangulo\obj\Debug\Rectangulo.pdb
