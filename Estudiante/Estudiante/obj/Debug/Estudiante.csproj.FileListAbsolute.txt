@@ -1,0 +1,10 @@
+C:\laragon\www\Windows-Forms\Estudiante\Estudiante\bin\Debug\Estudiante.exe.config
+C:\laragon\www\Windows-Forms\Estudiante\Estudiante\bin\Debug\Estudiante.exe
+C:\laragon\www\Windows-Forms\Estudiante\Estudiante\bin\Debug\Estudiante.pdb
+C:\laragon\www\Windows-Forms\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.AssemblyReference.cache
+C:\laragon\www\Windows-Forms\Estudiante\Estudiante\obj\Debug\Estudiante.Form1.resources
+C:\laragon\www\Windows-Forms\Estudiante\Estudiante\obj\Debug\Estudiante.Properties.Resources.resources
+C:\laragon\www\Windows-Forms\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.GenerateResource.cache
+C:\laragon\www\Windows-Forms\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.CoreCompileInputs.cache
+C:\laragon\www\Windows-Forms\Estudiante\Estudiante\obj\Debug\Estudiante.exe
+C:\laragon\www\Windows-Forms\Estudiante\Estudiante\obj\Debug\Estudiante.pdb

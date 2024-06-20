@@ -1,0 +1,10 @@
+C:\laragon\www\Windows-Forms\Perro\Perro\bin\Debug\Perro.exe.config
+C:\laragon\www\Windows-Forms\Perro\Perro\bin\Debug\Perro.exe
+C:\laragon\www\Windows-Forms\Perro\Perro\bin\Debug\Perro.pdb
+C:\laragon\www\Windows-Forms\Perro\Perro\obj\Debug\Perro.csproj.AssemblyReference.cache
+C:\laragon\www\Windows-Forms\Perro\Perro\obj\Debug\Perro.Form1.resources
+C:\laragon\www\Windows-Forms\Perro\Perro\obj\Debug\Perro.Properties.Resources.resources
+C:\laragon\www\Windows-Forms\Perro\Perro\obj\Debug\Perro.csproj.GenerateResource.cache
+C:\laragon\www\Windows-Forms\Perro\Perro\obj\Debug\Perro.csproj.CoreCompileInputs.cache
+C:\laragon\www\Windows-Forms\Perro\Perro\obj\Debug\Perro.exe
+C:\laragon\www\Windows-Forms\Perro\Perro\obj\Debug\Perro.pdb
