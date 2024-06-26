@@ -1,0 +1,31 @@
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\Conexion con bd.exe.config
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\Conexion con bd.exe
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\Conexion con bd.pdb
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\Antlr3.Runtime.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\mysql.data.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\mysql.data.entity.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\MySql.Debugger.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\MySql.Debugger.VisualStudio.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\MySql.Parser.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\mysql.visualstudio.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\mysql.web.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\EnvDTE.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\EnvDTE80.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\stdole.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\obj\Debug\Conexion con bd.csproj.AssemblyReference.cache
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\obj\Debug\Conexion con bd.csproj.SuggestedBindingRedirects.cache
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\obj\Debug\Conexion con bd.exe.config
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\obj\Debug\Conexion_con_bd.Form1.resources
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\obj\Debug\Conexion_con_bd.Properties.Resources.resources
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\obj\Debug\Conexion con bd.csproj.GenerateResource.cache
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\obj\Debug\Conexion con bd.csproj.CoreCompileInputs.cache
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\obj\Debug\Conexion.7C2C2178.Up2Date
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\obj\Debug\Conexion con bd.exe
+C:\laragon\www\Windows-Forms\Conexion con bd\Conexion con bd\obj\Debug\Conexion con bd.pdb

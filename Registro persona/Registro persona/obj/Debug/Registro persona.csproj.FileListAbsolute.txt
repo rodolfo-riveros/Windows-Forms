@@ -1,0 +1,31 @@
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\obj\Debug\Registro persona.csproj.AssemblyReference.cache
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\obj\Debug\Registro persona.csproj.SuggestedBindingRedirects.cache
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\obj\Debug\Registro persona.exe.config
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\obj\Debug\Registro_persona.Form1.resources
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\obj\Debug\Registro_persona.Properties.Resources.resources
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\obj\Debug\Registro persona.csproj.GenerateResource.cache
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\obj\Debug\Registro persona.csproj.CoreCompileInputs.cache
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\Registro persona.exe.config
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\Registro persona.exe
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\Registro persona.pdb
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\Antlr3.Runtime.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\mysql.data.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\mysql.data.entity.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\MySql.Debugger.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\MySql.Debugger.VisualStudio.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\MySql.Parser.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\mysql.visualstudio.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\mysql.web.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\EnvDTE.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\EnvDTE80.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\stdole.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\obj\Debug\Registro.59AE6A99.Up2Date
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\obj\Debug\Registro persona.exe
+C:\laragon\www\Windows-Forms\Registro persona\Registro persona\obj\Debug\Registro persona.pdb
